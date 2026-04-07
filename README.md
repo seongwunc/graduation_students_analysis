@@ -1,7 +1,3 @@
-这份 `README.md` 是根据你更新后的文件名和项目架构重新生成的。它采用了标准的 GitHub 项目文档结构，重点突出了你**数据清洗**、**交互式可视化 (Plotly)** 以及 **信息架构设计** 的复合能力。
-
----
-
 # 🎓 Graduation Students Employment Analysis
 ### 毕业生就业去向数据清洗与可视化分析
 
