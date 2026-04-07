@@ -1,0 +1,17 @@
+# 数据处理与数值计算
+pandas
+numpy
+
+# 静态可视化库
+matplotlib
+seaborn
+
+# 交互式可视化库 (包含 graph_objects 和 express)
+plotly
+
+# 运行环境 (推荐包含，确保 Jupyter 环境兼容)
+jupyter
+notebook
+
+# 辅助库 (如果涉及读取原始 Excel 文件)
+openpyxl
