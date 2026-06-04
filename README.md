@@ -41,6 +41,5 @@ jupyter notebook
 ## 👤 作者
 **作者**：陈湘媛  
 **完成日期**：2026年3月30日
-**github链接**：https://github.com/seongwunc/Mall-Customer-Clustering
 
 -----
